@@ -17,4 +17,6 @@ div {
 	border-color: #6495ED;
 	background-color: #BCD2EE;
 	border-radius: 5px;
+	text-align: center;
+	margin: auto;
 }
