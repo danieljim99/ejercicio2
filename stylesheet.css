@@ -12,8 +12,8 @@ p {
 }
 
 div {
-	Alto 50px
-	Ancho 120px
-	Color borde #6495ED
-	Color fondo #BCD2EE
+	height: 50px;
+	width: 120px;
+	border-color: #6495ED;
+	background-color: #BCD2EE;
 }
