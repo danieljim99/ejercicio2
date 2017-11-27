@@ -10,3 +10,10 @@ p {
 	font-family: Garamond, serif;
 	font-size: 18px;
 }
+
+div {
+	Alto 50px
+	Ancho 120px
+	Color borde #6495ED
+	Color fondo #BCD2EE
+}
